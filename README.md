@@ -1,8 +1,7 @@
 # Project Information Design - individueel
 
-![](https://github.com/maroeska/informationdesign/blob/master/chart1.png "50%")
 ![](https://github.com/maroeska/informationdesign/blob/master/chart2.png)
-![](https://github.com/maroeska/informationdesign/blob/master/chart3.png)
+> 1 van de datavisualisaties uit mijn project
 
 In deze readme beschrijf ik wat ik heb gedaan tijdens deel A van het project, welke charts ik heb gebruikt, welke data ik heb gebruikt, welke features ik heb gebruikt van D3 en welke bronnen ik heb gebruikt.
 
@@ -86,13 +85,3 @@ Informatie bronnen:
 ### License
 
 GPL-3.0 © Maroeska Verkerk
-
-
-
-
-
-
-
-
-
-
