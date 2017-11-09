@@ -55,11 +55,8 @@ Grouped Bar Chart - Comma-separated values (CSV) met 28 rijen en 8 kolommen:
     — `d3.dsv`
     — Data laden en ontleden
 *   [`d3-axis`](https://github.com/d3/d3-axis) 
-    — `d3.axis
+    — `d3.axis`
     — Weergave van assen
-*   [`d3-shape`](https://github.com/d3/d3-shape) 
-    — `d3.shape
-    — Berekende gestapelde posities
 *   [`d3-shape`](https://github.com/d3/d3-shape) 
     — `d3.shape`
     — Berekende gestapelde posities
