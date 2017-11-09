@@ -48,7 +48,7 @@ Grouped Bar Chart - Comma-separated values (CSV) met 28 rijen en 8 kolommen:
 *   [`d3-format`](https://github.com/d3/d3-format#api-reference) 
     — `d3.format`
     — Uitdrukking getallen
-    *   [`d3-tip`](https://github.com/caged/d3-tip) 
+*   [`d3-tip`](https://github.com/caged/d3-tip) 
     — `d3.tip`
     — Tooltip
 
