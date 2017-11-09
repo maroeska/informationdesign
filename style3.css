@@ -1,0 +1,32 @@
+.axis .domain {
+  display: none;
+}
+
+body {
+  font: 10px sans-serif;
+}
+
+p {
+    width: 60em;
+}
+
+.vorige {
+    text-align: center;
+    list-style: none;
+    padding: 0.3em;
+    color:  white;
+    border-bottom: 1px solid #f49d90;
+    border-right: 1px solid #f49d90;
+    background-color: black;
+    text-decoration: none;
+}
+
+.vorige:hover {
+    background-color: white;
+    color: black;
+    border-bottom: 1px solid #f49d90;
+    border-right: 1px solid #f49d90;
+    text-decoration: none;
+    transform: scale(1.15);
+    transition-duration: 0.5s;
+}
