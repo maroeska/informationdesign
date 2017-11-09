@@ -40,8 +40,8 @@ Grouped Bar Chart - Comma-separated values (CSV) met 28 rijen en 8 kolommen:
     — `d3.select`
     — Huidige selectie teruggeven, of een nieuwe selectie
 *   [`d3-scale`](https://github.com/d3/d3-scale#api-reference)
-    — `d3.scaleBand` and `d3.scaleLinear`
-    — Positie bepalen
+    — `d3.scaleBand`, `d3.scaleLinear` en `d3.scale.ordinal` 
+    — Positie en kleuren bepalen
 *   [`d3-array`](https://github.com/d3/d3-axis#api-reference)
     — `d3.axisBottom` and `d3.axisLeft`
     — Asgenerators voor schalen
@@ -54,6 +54,27 @@ Grouped Bar Chart - Comma-separated values (CSV) met 28 rijen en 8 kolommen:
 *   [`d3-dsv`](https://github.com/d3/d3-dsv) 
     — `d3.dsv`
     — Data laden en ontleden
+*   [`d3-axis`](https://github.com/d3/d3-axis) 
+    — `d3.axis
+    — Weergave van assen
+*   [`d3-shape`](https://github.com/d3/d3-shape) 
+    — `d3.shape
+    — Berekende gestapelde posities
+*   [`d3-shape`](https://github.com/d3/d3-shape) 
+    — `d3.shape`
+    — Berekende gestapelde posities
+*   [`d3-max`](https://github.com/d3/d3-array/blob/master/README.md#max) 
+    — `d3.max`
+    — Maximale waarde berekenen in een array
+*   [`d3-keys`](https://github.com/d3/d3-collection/blob/master/README.md#keys) 
+    — `d3.keys`
+    — Kolomnamen berekenen
+*   [`d3-svg.axis`](https://github.com/d3/d3-axis) 
+    — `d3.svg.axis`
+    — Weergave assen   
+        
+    
+    
 
 ### Bronnen    
 
