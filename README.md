@@ -34,7 +34,23 @@ Grouped Bar Chart - Comma-separated values (CSV) met 28 rijen en 8 kolommen:
 *   `35 tot 40 jaar` — vrouwen 40 tot 45 jaar
 *   `45 jaar of ouder` — vrouwen 45 jaar of ouder
 
+### Features
 
+*   [`d3-selection`](https://github.com/d3/d3-selection#api-reference)
+    — `d3.select`
+    — Huidige selectie teruggeven, of een nieuwe selectie
+*   [`d3-scale`](https://github.com/d3/d3-scale#api-reference)
+    — `d3.scaleBand` and `d3.scaleLinear`
+    — Positie bepalen
+*   [`d3-array`](https://github.com/d3/d3-axis#api-reference)
+    — `d3.axisBottom` and `d3.axisLeft`
+    — Asgenerators voor schalen
+*   [`d3-format`](https://github.com/d3/d3-format#api-reference) 
+    — `d3.format`
+    — Uitdrukking getallen
+    *   [`d3-tip`](https://github.com/caged/d3-tip) 
+    — `d3.tip`
+    — Tooltip
 
 
 
