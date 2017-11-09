@@ -11,13 +11,38 @@ In deel A wil ik datavisualisaties laten zien van de bevolkingsgroei in Nederlan
 
 ### Charts
 * [Stacked Bar Chart van Mike Bostock](https://bl.ocks.org/mbostock/3886208)
-* [Grouped Bar Chart van Mike Bostock](https://bl.ocks.org/mbostock/3887051)
 * [Bar Chart with Tooltip van Justin Palmer](http://bl.ocks.org/Caged/6476579)
+* [Grouped Bar Chart van Mike Bostock](https://bl.ocks.org/mbostock/3887051)
 
 ### Data
-Stacked Bar Chart - Comma-separated values (CSV) with 28 rijen en 3 kolommen:
+Stacked Bar Chart - Comma-separated values (CSV) met 28 rijen en 3 kolommen:
 *   `Jaartal` — jaartal 1990-2016
 *   `Jongens` — aantal geboren jongens in 1 jaar
 *   `Meisjes` — aantal geboren meisjes in 1 jaar
+
+Bar Chart with Tooltip - Tab-separated values (TSV) met 28 rijen en 2 kolommen:
+*   `jaartal` — jaartal 1990-2016
+*   `frequency` — gemiddeld hoeveelheid kinderen
+
+Grouped Bar Chart - Comma-separated values (CSV) met 28 rijen en 8 kolommen:
+*   `State` — jaartal 1990-2016
+*   `Jonger dan 20 jaar` — vrouwen jonger dan 20 jaar
+*   `20 tot 25 jaar` — vrouwen 20 tot 25 jaar
+*   `25 tot 30 jaar` — vrouwen 25 tot 30 jaar
+*   `30 tot 35 jaar` — vrouwen 30 tot 35 jaar
+*   `35 tot 40 jaar` — vrouwen 35 tot 40 jaar
+*   `35 tot 40 jaar` — vrouwen 40 tot 45 jaar
+*   `45 jaar of ouder` — vrouwen 45 jaar of ouder
+
+
+
+
+
+
+
+
+
+
+
 
 
