@@ -1,6 +1,6 @@
 # Project Information Design - individueel
 
-![](https://github.com/maroeska/informationdesign/blob/master/chart1.png)
+![](https://github.com/maroeska/informationdesign/blob/master/chart1.png "50%")
 ![](https://github.com/maroeska/informationdesign/blob/master/chart2.png)
 ![](https://github.com/maroeska/informationdesign/blob/master/chart3.png)
 
