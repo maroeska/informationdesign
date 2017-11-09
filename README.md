@@ -11,3 +11,8 @@ In deel A wil ik datavisualisaties laten zien van de bevolkingsgroei in Nederlan
 
 ## Charts
 * [Stacked Bar Chart van Mike Bostock](https://bl.ocks.org/mbostock/3886208)
+* [Grouped Bar Chart van Mike Bostock](https://bl.ocks.org/mbostock/3887051)
+* [Bar Chart with Tooltip van Justin Palmer](http://bl.ocks.org/Caged/6476579)
+
+## Data
+
