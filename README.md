@@ -15,4 +15,9 @@ In deel A wil ik datavisualisaties laten zien van de bevolkingsgroei in Nederlan
 * [Bar Chart with Tooltip van Justin Palmer](http://bl.ocks.org/Caged/6476579)
 
 ### Data
+Stacked Bar Chart - Comma-separated values (CSV) with 28 rijen en 3 kolommen:
+*   `Jaartal` — jaartal 1990-2016
+*   `Jongens` — aantal geboren jongens in 1 jaar
+*   `Meisjes` — aantal geboren meisjes in 1 jaar
+
 
