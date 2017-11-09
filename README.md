@@ -74,10 +74,10 @@ Grouped Bar Chart - Comma-separated values (CSV) met 28 rijen en 8 kolommen:
 
 Informatie bronnen:
 
-https://github.com/d3/d3-format > d3.format<br>
-http://statline.cbs.nl/statweb/publication/?vw=t&dm=slnl&pa=37422ned&d1=0,4-5,7,9,11,13,17,26,35,40-41&d2=0,10,20,30,40,(l-4)-l&hd=090218-0953&hdr=g1&stb=t > CBS dataset Geboorte;kerncijfers<br>
-https://stackoverflow.com > diverse vragen van mensen gelezen<br>
-https://github.com/d3/d3/wiki/Gallery > gallerij met charts
+* https://github.com/d3/d3-format > d3.format<br>
+* http://statline.cbs.nl/statweb/publication/?vw=t&dm=slnl&pa=37422ned&d1=0,4-5,7,9,11,13,17,26,35,40-41&d2=0,10,20,30,40,(l-4)-l&hd=090218-0953&hdr=g1&stb=t > CBS dataset Geboorte;kerncijfers<br>
+* https://stackoverflow.com > diverse vragen van mensen gelezen<br>
+* https://github.com/d3/d3/wiki/Gallery > gallerij met charts
 
 ### License
 
