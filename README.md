@@ -1,5 +1,7 @@
 # Project Information Design - individueel
 
+![](informationdesign/chart1.png)
+
 In deze readme beschrijf ik wat ik heb gedaan tijdens deel A van het project, welke charts ik heb gebruikt, welke data ik heb gebruikt, welke features ik heb gebruikt van D3 en welke bronnen ik heb gebruikt.
 
 ___
