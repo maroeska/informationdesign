@@ -10,4 +10,4 @@ Ik wilde voor deel A dezelfde data gebruiken als in deel B. Deel B is concept ge
 In deel A wil ik datavisualisaties laten zien van de bevolkingsgroei in Nederland, gericht op geboortes. Ik heb 3 verschillende charts gebruikt.
 
 ## Charts
-[Stacked Bar Chart van Mike Bostock](https://bl.ocks.org/mbostock/3886208)
+* [Stacked Bar Chart van Mike Bostock](https://bl.ocks.org/mbostock/3886208)
